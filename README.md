@@ -1,6 +1,6 @@
 * Razorpay Clone
   
-This is a frontend application that mimics the functionality of Razorpay, an online payment gateway. It allows users to simulate payments and explore payment gateway features.
+This is a frontend application that mimics the functionality of Razorpay, an online payment gateway. It allows users to simulate payments and explore payment gateway features..
 
 * Features
   
